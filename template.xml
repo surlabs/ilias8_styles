@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<template xmlns="http://www.w3.org" version="0.2" name="Skins para ILIAS 8 by Surlabs">
-  <style id="s001" name="Cadi Tacita de Plata" image_directory="images" css_file="s001" sound_directory="sound" font_directory="fonts"/>
+<?xml version = "1.0" encoding = "UTF-8"?>
+<template xmlns = "http://www.w3.org" version = "$Id$" name = "Mentaformación">
+	<style 	name = "Mentaformación"
+			id = "menta"
+			image_directory = "images"/>
 </template>
